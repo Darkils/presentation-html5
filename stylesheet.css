@@ -1,0 +1,44 @@
+body {background-image: url("http://img0.gm.gtsstatic.com/wallpapers/b1a47183f30a110a686625a326a90657_large.jpeg")}
+header, footer {
+  border: solid 1px red;
+}
+footer {
+  position: fixed;
+  bottom:0; right:0;
+  background-color: red;
+}
+div {
+  border: solid 1px green;
+}
+#menu {
+  position: absolute;
+  width: 250px;
+  height: 1500px;
+}
+#content {
+  margin-left: 300px
+}
+.valign {
+  vertical-align: middle;
+}
+.Titre {
+  text-align: center;
+  font-size: 35px;
+}
+.bvn{
+  color: blue;
+}
+.ps3 {
+  font-size: 30px;
+  color :green;
+}
+.dha {
+  color: white;
+}
+.jmi {
+  color: green;
+}
+.codb3 {
+  font-size: 25px;
+  color: red;
+}
