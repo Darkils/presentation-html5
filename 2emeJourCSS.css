@@ -1,0 +1,93 @@
+body {background-image: url("http://img0.gm.gtsstatic.com/wallpapers/b1a47183f30a110a686625a326a90657_large.jpeg")}
+header, footer {
+  border: solid 1px red;
+}
+footer {
+  position: fixed;
+  bottom:0; right:0;
+  background-color: red;
+}
+#menu {
+  position: absolute;
+  width: 250px;
+  height: 1500px;
+}
+#content {
+  margin-left: 300px
+}
+.valign {
+  vertical-align: middle;
+}
+.Titre {
+  text-align: center;
+  font-size: 35px;
+}
+.bvn{
+  color: blue;
+  text-shadow: 5px 5px 4px black;
+  font-size: 35px
+}
+.ps3 {
+  font-size: 30px;
+  color :green;
+}
+.dha {
+  color: white;
+  text-shadow: 5px 5px 4px black;
+}
+.jmi {
+  color: red;
+  text-shadow: 5px 5px 4px black;
+  font-size: 35px
+}
+.codb3 {
+  font-size: 25px;
+  color: #FFB6C1;
+  font-weight: bold;
+}
+ID {
+  width: auto;
+  height: auto;
+}
+.titlebar {
+  text-align: center;
+}
+.fofo {
+  color: #00FF00;
+  font-weight: bold;
+}
+.codb2 {
+  font-size: 25px;
+  color: #FFB6C1;
+  font-weight: bold;
+}
+.codb {
+  font-size: 25px;
+  color: #FFB6C1;
+  font-weight: bold;
+}
+.codg {
+  font-size: 25px;
+  color: #FFB6C1;
+  font-weight: bold;
+}
+.coaw {
+  font-size: 25px;
+  color: #FFB6C1;
+  font-weight: bold;
+}
+.comw3 {
+  font-size: 25px;
+  color: #FFB6C1;
+  font-weight: bold;
+}
+.comw2 {
+  font-size: 25px;
+  color: #FFB6C1;
+  font-weight: bold;
+}
+.cowaw {
+  font-size: 25px;
+  color: #FFB6C1;
+  font-weight: bold;
+}
